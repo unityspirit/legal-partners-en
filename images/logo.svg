@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="16" fill="#06040a"/>
+  <rect x="2" y="2" width="116" height="116" rx="14" stroke="#c9a84c" stroke-width="2" fill="none"/>
+  <!-- Scales of justice -->
+  <g transform="translate(60, 15)" fill="none" stroke="#c9a84c" stroke-width="2.5" stroke-linecap="round">
+    <line x1="0" y1="5" x2="0" y2="50"/>
+    <line x1="-25" y1="12" x2="25" y2="12"/>
+    <line x1="-25" y1="12" x2="-25" y2="20"/>
+    <line x1="25" y1="12" x2="25" y2="20"/>
+    <path d="M-33,30 Q-25,38 -17,30" fill="none"/>
+    <path d="M17,30 Q25,38 33,30" fill="none"/>
+    <line x1="-33" y1="20" x2="-17" y2="20" stroke-width="1.5"/>
+    <line x1="17" y1="20" x2="33" y2="20" stroke-width="1.5"/>
+    <rect x="-8" y="48" width="16" height="4" rx="2" fill="#c9a84c"/>
+  </g>
+  <text x="60" y="86" text-anchor="middle" fill="#c9a84c" font-family="serif" font-size="10" font-weight="600" letter-spacing="2">LEXIS</text>
+  <text x="60" y="102" text-anchor="middle" fill="#e8c97a" font-family="serif" font-size="7" font-weight="400" letter-spacing="4">PARTNERS</text>
+  <line x1="30" y1="90" x2="90" y2="90" stroke="#c9a84c" stroke-width="0.5" opacity="0.5"/>
+</svg>
